@@ -1,0 +1,14 @@
+
+@import "_navbar.css";
+@import "_main.css";
+@import "_footer.css";
+
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
